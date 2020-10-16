@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
     PresencePolling \
     QuickAccessWallet \
     RcsService \
+    TouchGestures \
     SafetyRegulatoryInfo \
     Stk \
     TimeZoneUpdater
