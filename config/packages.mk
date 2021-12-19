@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     LiveWallpapers \
     LiveWallpapersPicker \
+    TouchGestures \
     messaging \
     ThemePicker
 
