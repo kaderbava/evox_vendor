@@ -17,6 +17,7 @@
 PRODUCT_PACKAGES += \
     EvoEgg \
     GameSpace \
+    TouchGestures \
     Papers \
     RepainterServicePriv \
     SimpleDeviceConfig
